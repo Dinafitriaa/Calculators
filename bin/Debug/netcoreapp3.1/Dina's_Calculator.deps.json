@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dina's_Calculator/1.0.0": {
+        "runtime": {
+          "Dina's_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dina's_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

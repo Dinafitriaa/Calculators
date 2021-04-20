@@ -1,0 +1,15 @@
+D:\Dina's_Calculator\bin\Debug\netcoreapp3.1\Dina's_Calculator.exe
+D:\Dina's_Calculator\bin\Debug\netcoreapp3.1\Dina's_Calculator.deps.json
+D:\Dina's_Calculator\bin\Debug\netcoreapp3.1\Dina's_Calculator.runtimeconfig.json
+D:\Dina's_Calculator\bin\Debug\netcoreapp3.1\Dina's_Calculator.runtimeconfig.dev.json
+D:\Dina's_Calculator\bin\Debug\netcoreapp3.1\Dina's_Calculator.dll
+D:\Dina's_Calculator\bin\Debug\netcoreapp3.1\Dina's_Calculator.pdb
+D:\Dina's_Calculator\obj\Debug\netcoreapp3.1\Dina's_Calculator.csprojAssemblyReference.cache
+D:\Dina's_Calculator\obj\Debug\netcoreapp3.1\Dina_s_Calculator.Form1.resources
+D:\Dina's_Calculator\obj\Debug\netcoreapp3.1\Dina's_Calculator.csproj.GenerateResource.cache
+D:\Dina's_Calculator\obj\Debug\netcoreapp3.1\Dina's_Calculator.AssemblyInfoInputs.cache
+D:\Dina's_Calculator\obj\Debug\netcoreapp3.1\Dina's_Calculator.AssemblyInfo.cs
+D:\Dina's_Calculator\obj\Debug\netcoreapp3.1\Dina's_Calculator.csproj.CoreCompileInputs.cache
+D:\Dina's_Calculator\obj\Debug\netcoreapp3.1\Dina's_Calculator.dll
+D:\Dina's_Calculator\obj\Debug\netcoreapp3.1\Dina's_Calculator.pdb
+D:\Dina's_Calculator\obj\Debug\netcoreapp3.1\Dina's_Calculator.genruntimeconfig.cache
